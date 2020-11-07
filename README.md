@@ -23,7 +23,7 @@ Conoce toda el álgebra lineal de la mano de Juan Gabriel Gomila y María Santos
 * Optimización lineal con el método del Simplex.
 * Repositorio Github con todo el material del curso para disponer de los mismos scripts que usamos en clase desde el minuto inicial.
 
-Una vez termines el curso podrás seguir con los mejores cursos de análisis de datos, machine learning e inteligencia aritificial publicados por Juan Gabriel Gomila como los cursos de Machine Learning o Inteligencia Artificial con Python o RStudio o el Curso de Data Science con Tidyverse y RStudio o el avanzado de TensorFlow. Todo el material del curso está enfocado en resolver los problemas de falta de base que presentan los ***estudiantes de esos cursos avanzados y poderlo hacer en un curso a parte te permitirá nivelar tus conocimientos y tomar los otros cursos con garantías de éxito.
+Una vez termines el curso podrás seguir con los mejores cursos de análisis de datos, machine learning e inteligencia aritificial publicados por Juan Gabriel Gomila como los cursos de Machine Learning o Inteligencia Artificial con Python o RStudio o el Curso de Data Science con Tidyverse y RStudio o el avanzado de TensorFlow. Todo el material del curso está enfocado en resolver los problemas de falta de base que presentan los ***estudiantes de esos cursos avanzados y poderlo hacer en un curso a parte te permitirá nivelar tus conocimientos y tomar los otros cursos con garantías de éxito.***
 
 ### Temario del curso
 
